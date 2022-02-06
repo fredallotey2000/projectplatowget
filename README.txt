@@ -9,3 +9,8 @@ First of all I will like to thank the Project Plato team for this opportunity to
 
 NOTE : when running seperate the weburl and directory to save the downloaded files with a space
 --------END------------------
+
+Feature I will love to be added
+
+1. A detailed log to inform the user on everything that happened during the extraction including errors
+2. Downloading of CSS files seperately
